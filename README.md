@@ -15,7 +15,7 @@ The Online Payments Fraud Detection project aims to develop a robust and efficie
   numerical features.
 - Exploratory Data Analysis (EDA): Analyzing the data to gain insights into the underlying patterns and characteristics of fraudulent transactions.
 - Feature Engineering: Creating new features from the existing data that may help improve the performance of the fraud detection model.
-- Model Selection and Training: Selecting appropriate machine learning models, such as logistic regression, random forest, or gradient boosting, and training them on the preprocessed data.
+- Model Selection and Training: Selecting appropriate machine learning models, such as logistic regression, random forest, or XGB , and training them on the preprocessed data.
 - Model Evaluation: Evaluating the performance of the trained models using metrics such as precision, recall, and F1-score to assess their effectiveness in detecting fraud.
 - Deployment: Deploying the trained model into a production environment where it can be used to detect fraudulent transactions in real-time.
 - Monitoring and Maintenance: Continuously monitoring the performance of the deployed model and updating it as necessary to adapt to new fraud patterns
@@ -24,7 +24,7 @@ The Online Payments Fraud Detection project aims to develop a robust and efficie
 - Scikit-learn and TensorFlow/Keras for building and evaluating machine learning models.
 - Pandas and NumPy for data manipulation and analysis.
 - Matplotlib and Seaborn For data visualization to understand the distribution and patterns.
-- Plotly: For interactive visualizations.
+- Plotly and Cufflinks: For interactive visualizations.
 
 
 
